@@ -15,7 +15,7 @@ traversal_Array(arr2)
 # access element?
 def accessElement(array, index):
     if index >= len(array):
-        print("there is none")
+        print("there is none!!")
     else:
         print(array[index])
 accessElement(arr1, 3)
