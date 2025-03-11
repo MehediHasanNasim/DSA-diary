@@ -2,7 +2,12 @@
 '''Bubble Sort is a simple sorting algorithm that repeatedly swaps adjacent elements if they are in the wrong order. It keeps passing through the list until it is completely sorted.'''
 
 # How it Works: 
-'''Start from the first element and compare it with the next one. If the first element is greater than the second, swap them. Move to the next pair and repeat the process for the whole list. After one complete pass, the largest element moves to the last position. Repeat the process for the remaining elements until the list is fully sorted.'''
+'''
+1. Start from the first element and compare it with the next one. 
+2. If the first element is greater than the second, swap them. 
+3. Move to the next pair and repeat the process for the whole list. 
+4. After one complete pass, the largest element moves to the last position. 
+5. Repeat the process for the remaining elements until the list is fully sorted.'''
 
 # Pseudocode 
 '''
